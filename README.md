@@ -65,9 +65,11 @@ Para hacer este evento realidad, buscamos el respaldo de empresas o particulares
 ## Fechas
 
 Actualmente estamos debatiendo la fecha exacta del evento. Barajamos 3 opciones principales (buscando no solapar con exámenes universitarios):
-- **2 de mayo**
-- **9 de mayo**
+- ~**2 de mayo**~
+- ~**9 de mayo**~
 - **27 de junio**
+
+Actualización: La fecha provisional es el 27 de junio, aunque aún falta por confirmar el espacio.
 
 Si no conseguimos asegurar el espacio y los recursos mínimos antes del 15 de abril, la iniciativa se cancelará.
 
